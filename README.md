@@ -1,4 +1,3 @@
-
 # SpendWise – Personal Finance Tracker
 
 ## 1. Project Description
@@ -45,58 +44,54 @@ SpendWise uses browser Local Storage to save transaction information so that use
 
 ## 5. Project Files
 
+```text
 SpendWise/
-│
 ├── index.html
 ├── style.css
 ├── script.js
 ├── README.md
 └── .gitignore
+```
 
 ## 6. GitHub Repository Information
 
 Project Name: SpendWise
 
-GitHub Username: YOUR_GITHUB_USERNAME
+GitHub Username: NasraAbdiAhmed27
 
-Repository Name: SpendWise
+Repository Name: my-spendwise
 
 GitHub Repository URL:
-https://github.com/YOUR_GITHUB_USERNAME/SpendWise
+https://github.com/NasraAbdiAhmed27/my-spendwise
 
 ## 7. Live Netlify Website
 
-Live Website URL:
+Live Website URL: **Pending Netlify deployment**
 
-PASTE_YOUR_NETLIFY_URL_HERE
+The live URL will be added after the GitHub repository is connected to Netlify and the first deployment succeeds.
 
 ## 8. Deployment Process Summary
 
-The SpendWise project was deployed using Netlify.
+Deployment is not yet verified. The remaining steps are:
 
-Deployment steps:
+1. Connect this public GitHub repository to Netlify.
+2. Select the `main` branch for production deployments.
+3. For this static HTML, CSS and JavaScript project, leave the build command empty and set the publish directory to `.`.
+4. Trigger the first deployment and copy the public Netlify URL into this README.
+5. Make a small change, commit and push it to the `main` branch.
+6. Confirm that Netlify automatically starts and completes a new production deployment.
+7. Open the live website and confirm the latest change is visible.
 
-1. Completed the HTML, CSS and JavaScript files.
-2. Tested the application locally in a web browser.
-3. Created a public GitHub repository.
-4. Uploaded the complete project files to GitHub.
-5. Connected the GitHub repository to Netlify.
-6. Configured the deployment settings.
-7. Published the website.
-8. Tested the live website.
-9. Updated the source code and verified automatic deployment.
+## 9. Challenges Encountered During Development and Deployment
 
-## 9. Challenges Encountered During Deployment
-
-Some of the challenges encountered while developing and deploying SpendWise included:
+Some of the challenges encountered while developing SpendWise included:
 
 - Organizing the HTML, CSS and JavaScript files correctly.
 - Connecting the JavaScript functionality to HTML elements.
 - Making the website responsive on different screen sizes.
 - Calculating income, expenses and available balance correctly.
 - Saving transaction information using Local Storage.
-- Connecting the GitHub repository to Netlify.
-- Verifying that changes pushed to GitHub were automatically deployed.
+- Configuring the GitHub-to-Netlify deployment connection.
 
 These challenges helped improve my problem-solving and debugging skills.
 
@@ -104,14 +99,14 @@ These challenges helped improve my problem-solving and debugging skills.
 
 Through this project, I learned how to:
 
-- Build a complete website using HTML5.
-- Style a professional dashboard using CSS3.
-- Use JavaScript to create interactive web applications.
+- Build a website using HTML5.
+- Style a dashboard using CSS3.
+- Use JavaScript to create an interactive web application.
 - Work with arrays, objects, functions and events.
 - Manipulate the Document Object Model (DOM).
 - Store information using browser Local Storage.
 - Use Git and GitHub for version control.
-- Deploy a website using Netlify.
+- Deploy a static website using Netlify.
 - Test a live website and verify automatic deployment.
 
 ## 11. Future Improvements
