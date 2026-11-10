@@ -66,9 +66,9 @@ https://github.com/NasraAbdiAhmed27/my-spendwise
 
 ## 7. Live Netlify Website
 
-Live Website URL: **Pending Netlify deployment**
+Live Website URL: https://my-budget-tracker07.netlify.app/
 
-The live URL will be added after the GitHub repository is connected to Netlify and the first deployment succeeds.
+The live URL is added.
 
 ## 8. Deployment Process Summary
 
