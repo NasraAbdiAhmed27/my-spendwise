@@ -70,17 +70,7 @@ Live Website URL: https://my-budget-tracker07.netlify.app/
 
 The live URL is added.
 
-## 8. Deployment Process Summary
 
-Deployment is not yet verified. The remaining steps are:
-
-1. Connect this public GitHub repository to Netlify.
-2. Select the `main` branch for production deployments.
-3. For this static HTML, CSS and JavaScript project, leave the build command empty and set the publish directory to `.`.
-4. Trigger the first deployment and copy the public Netlify URL into this README.
-5. Make a small change, commit and push it to the `main` branch.
-6. Confirm that Netlify automatically starts and completes a new production deployment.
-7. Open the live website and confirm the latest change is visible.
 
 ## 9. Challenges Encountered During Development and Deployment
 
@@ -96,6 +86,22 @@ Some of the challenges encountered while developing SpendWise included:
 These challenges helped improve my problem-solving and debugging skills.
 
 ## 10. Lessons Learned
+## Deployment Process Summary
+
+1. Developed the SpendWise application using HTML, CSS, and JavaScript.
+2. Uploaded the project to GitHub.
+3. Connected the GitHub repository to Netlify.
+4. Configured automatic deployment from the main branch.
+5. Updated the dashboard heading in index.html.
+6. Committed and pushed the changes to GitHub.
+7. Netlify automatically detected the changes and triggered a new deployment.
+8. Confirmed that the deployment was successfully published.
+9. Verified that the live website reflected the updated dashboard heading.
+
+## Continuous Deployment Verification
+
+Continuous deployment was successfully tested. Changes pushed to the GitHub main branch automatically triggered a new Netlify deployment. The updated dashboard heading was confirmed on the live website.
+
 
 Through this project, I learned how to:
 
@@ -123,4 +129,4 @@ Possible future improvements include:
 
 Developed as a front-end web development project.
 
-Project: SpendWise – Personal Finance Tracker
+Project: SpendWise – Personal Finance Tracker 
